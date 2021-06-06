@@ -12,7 +12,7 @@ Currently I Know
 5. AWS
 6. Flutter
 
-I can develop Android Applications, Web Applications and Desktop Applications.
+I can develop Android Applications, iOS Applications, Web Applications and Desktop Applications.
 
 <!--
 **shashikantdwivedi/shashikantdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
