@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Shashikant Dwivedi. I am from kota, Rajasthan, India.
-Currently I am pursuing my B.TECG Degree from Career Point University, Kota.
+Currently I am pursuing my B.TECH Degree from Career Point University, Kota.
 I have been coding from last 4 years.
 I started with C++ in my 11th and 12th class. Then I started learning Web Development and making web projects.
 After that I learned Python. I have made lots of projects in python.
