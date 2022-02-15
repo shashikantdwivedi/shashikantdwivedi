@@ -1,30 +1,33 @@
-### Hi there 👋
-I am Shashikant Dwivedi. I am from kota, Rajasthan, India.
-Currently I am pursuing my B.TECH Degree from Career Point University, Kota.
-I have been coding from last 4 years.
-I started with C++ in my 11th and 12th class. Then I started learning Web Development and making web projects.
-After that I learned Python. I have made lots of projects in python.
-Currently I Know
-1. Python
-2. HTML
-3. CSS
-4. Dart
-5. AWS
-6. Flutter
+**Full Stack Developer & Full-Time Freelancer.**
 
-I can develop Android Applications, iOS Applications, Web Applications and Desktop Applications.
+Hello, I am **Shashikant Dwivedi**! I am a full-stack developer & full-time freelancer. In this blog, I write all the things that I learn throughout my development journey.
 
-<!--
-**shashikantdwivedi/shashikantdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Basically, I develop  - Web applications, Android applications, iOS applications, Scrapers, Bots, or anything that matches my stack.
 
-Here are some ideas to get you started:
+I have more than **3 Years** of experience in developing applications of all kinds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Qualification**
+I have completed my graduation in "Bachelors Of Technology" from Career Point University, Kota, Rajasthan.
+
+**Skills**
+Python
+3+ years of experience
+11+ projects completed
+AWS
+1.5+ years of experience
+Web Development
+3+ years of experience
+15+ projects completed
+Android/iOS Development - Flutter, Java
+1.5+ years of experience
+13+ projects completed
+PHP
+6+ months experience
+5+ projects completed
+
+**Connect**
+Twitter - https://twitter.com/theskd1999
+
+Instagram - https://www.instagram.com/dwivedikantshashi/
+
+Hire Me - https://www.freelancer.com/u/kantshashi1999
