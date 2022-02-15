@@ -6,10 +6,10 @@ Basically, I develop  - Web applications, Android applications, iOS applications
 
 I have more than **3 Years** of experience in developing applications of all kinds.
 
-**Qualification**
+## Qualification
 I have completed my graduation in "Bachelors Of Technology" from Career Point University, Kota, Rajasthan.
 
-**Skills**
+## Skills
 Python
 3+ years of experience
 11+ projects completed
@@ -25,7 +25,7 @@ PHP
 6+ months experience
 5+ projects completed
 
-**Connect**
+## Connect
 Twitter - https://twitter.com/theskd1999
 
 Instagram - https://www.instagram.com/dwivedikantshashi/
