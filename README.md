@@ -11,8 +11,8 @@ I have completed my graduation in "Bachelors Of Technology" from Career Point Un
 
 ## Skills
 1. Python
-  1. 3+ years of experience
-  2. 11+ projects completed
+   1. 3+ years of experience
+   2. 11+ projects completed
 2. AWS
   1. 1.5+ years of experience
 3. Web Development
