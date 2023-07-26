@@ -24,10 +24,3 @@ I have completed my graduation in "Bachelors Of Technology" from Career Point Un
 5. PHP
    1. 6+ months experience
    2. 5+ projects completed
-
-## Connect
-Twitter - https://twitter.com/theskd1999
-
-Instagram - https://www.instagram.com/dwivedikantshashi/
-
-Hire Me - https://www.freelancer.com/u/kantshashi1999
